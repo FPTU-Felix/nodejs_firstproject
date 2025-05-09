@@ -1,0 +1,29 @@
+{
+  "name": "firstproject-js",
+  "version": "1.0.0",
+  "description": "FirstProject",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inspect main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FPTU-Felix/nodejs_firstproject.git"
+  },
+  "keywords": [
+    "felixfirstproject"
+  ],
+  "author": "felix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FPTU-Felix/nodejs_firstproject/issues"
+  },
+  "homepage": "https://github.com/FPTU-Felix/nodejs_firstproject#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
